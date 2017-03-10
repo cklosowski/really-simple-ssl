@@ -3,8 +3,13 @@ Contributors: RogierLankhorst
 Tags: SSL, https, force SSL, mixed content, insecure content, secure website, website security, tls, security, secure socket layers, hsts
 Requires at least: 4.2
 License: GPL2
+<<<<<<< Updated upstream
 Tested up to: 4.7.3
 Stable tag: 2.5.11
+=======
+Tested up to: 4.7.2
+Stable tag: 2.5.10
+>>>>>>> Stashed changes
 
 No setup required! You only need an SSL certificate, and this plugin will do the rest.
 
@@ -74,7 +79,7 @@ If you are experiencing redirect loops on your site, try these [instructions](ht
 
 == Changelog ==
 = 2.5.11 =
-* Removed curl in favor of wp_remote_get 
+* Removed curl in favor of wp_remote_get
 
 = 2.5.10 =
 * Fastest cache compatibility fix
