@@ -35,6 +35,7 @@ some cool features.
 * The option to configure your site for the HSTS preload list
 * Mixed Content Fixer for the back-end
 * More detailed feedback on the configuration page.
+* Certificate expiration check: get an email when your SSL certificate is about to expire.
 * Premium support
 
 = What does the plugin actually do =
